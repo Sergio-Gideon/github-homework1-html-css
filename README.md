@@ -1,2 +1,2 @@
 # github-homework1-html-css
-Рерозиторий домашнее задание №1 HTML+CSS
+Репозиторий домашнее задание №1 HTML+CSS
